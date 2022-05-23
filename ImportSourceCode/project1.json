@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "gitSource": {
+      "url": "https://dev.azure.com/Demo369/project1/_git/project1"
+    },
+    "serviceEndpointId": "$project1-code$",
+    "deleteServiceEndpointAfterImportIsDone": true
+  }
+}

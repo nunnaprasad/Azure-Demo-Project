@@ -1,0 +1,32 @@
+[
+  {
+    "id": "20cb000d-4819-42c1-9444-5b0dabee08b9",
+    "name": "devteam",
+    "description": "",
+    "isDefault": "false"
+  },
+  {
+    "id": "f1150fa4-ce3c-4b17-ac59-9d66a218eb25",
+    "name": "ops team",
+    "description": "",
+    "isDefault": "false"
+  },
+  {
+    "id": "dc67f701-fa7c-4886-a605-0d94d2e52bd1",
+    "name": "testingteam",
+    "description": "",
+    "isDefault": "false"
+  },
+  {
+    "id": "1b6d9a12-1277-4bab-bc85-3ba75b87ec0f",
+    "name": "planning team",
+    "description": "",
+    "isDefault": "false"
+  },
+  {
+    "id": "27b726cc-6a56-4d5a-be58-a6522f19688e",
+    "name": "project1 Team",
+    "description": "The default project team.",
+    "isDefault": "true"
+  }
+]
